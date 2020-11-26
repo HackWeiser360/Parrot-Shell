@@ -12,7 +12,7 @@ $ cd Parrot-Shell
 
 $ chmod +x *
 
-$ sh install.sh
+$ sh Install.sh
 
 exit
 
