@@ -1,5 +1,6 @@
 # Parrot-Shell 
 #### This tool will make your Termux look like Parrot Terminal
+ ![Screenshot_20201226-093518](https://user-images.githubusercontent.com/74961526/103146654-c6563080-475d-11eb-8fef-4166750004c6.png)
 
 ## [~] Installation & Usage
 $ apt update
